@@ -41,3 +41,12 @@ Instálalo con:
 
 ```bash
 pip install pygame
+
+## 2. Clona o descarga este repositorio
+
+git clone https://github.com/johncastro16/AventuraColoreada.git
+cd AventuraColoreada
+
+## 3. Ejecuta el juego
+
+python main.py
